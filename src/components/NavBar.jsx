@@ -18,7 +18,7 @@ const NavBar = () => {
         </a>
         <a
           className="flex justify-center items-center gap-x-2 sm:gap-x-5 hover:text-green-400 transition-all"
-          href="https://t.me/netcrawler_ish"
+          href="https://t.me/mkdenn"
         >
           <FaTelegram />
           <span>Say Hi</span>

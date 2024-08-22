@@ -13,7 +13,7 @@ const Footer = () => {
       </p>
       <div className="flex justify-center items-center gap-4 mt-4">
         <a
-          href="https://t.me/netcrawler_ish"
+          href="https://t.me/mkdenn"
           className="hover:text-green-400 flex justify-center items-center gap-x-3 transition-all"
         >
           From netcrawler 🦉
