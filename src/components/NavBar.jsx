@@ -11,8 +11,9 @@ const NavBar = () => {
       <div className="flex justify-end items-center gap-6 sm:gap-10 text-white text-sm sm:text-xl">
         <a
           className="flex justify-center items-center gap-x-2 sm:gap-x-4 hover:text-green-400 transition-all"
-          href="https://expo.dev/artifacts/eas/318BkLFxY7pepC5NztgDFj.apk"
+          href=""
         >
+          
           <FaDownload />
           <span>Download</span>
         </a>
