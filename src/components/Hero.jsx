@@ -10,7 +10,7 @@ const Hero = () => {
         </p>
 
         <a
-          href=""
+          href="https://expo.dev/artifacts/eas/jRCWkJYuWy9u9Xiz4wNPKp.apk"
           className="mt-5 rounded bg-green-600 text-center text-slate-100 py-2 text-sm sm:text-lg sm:py-3 w-[140px] sm:w-[180px] hover:bg-green-800 transition-all"
         >
           Download
